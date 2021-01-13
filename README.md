@@ -7,7 +7,8 @@ The results of the competition can be found here: https://drive.google.com/drive
 The competition was run using a subset of the data available from: https://amsterdammedicaldatascience.nl/#amsterdamumcdb
 
 Other resources:
-* Paper introducing the challenge: https://arxiv.org/abs/2007.12087  
+* Paper introducing the challenge: https://arxiv.org/abs/2007.12087
+* Original challenge repository: https://bitbucket.org/mvdschaar/mlforhealthlabpub/src/master/app/hide-and-seek/
 * General introduction and overview (including FAQs): https://www.vanderschaar-lab.com/privacy-challenge/  
 * CodaLab challenge page: https://competitions.codalab.org/competitions/25312  
 * van der Schaar Lab contacts: nm736@cam.ac.uk, james.jordon@wolfson.ox.ac.uk, e.s.saveliev@gmail.com
